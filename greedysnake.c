@@ -1,3 +1,4 @@
+/*This program runs in Linux*/
 #include <ncurses.h>
 #include <unistd.h>
 #include <signal.h>
