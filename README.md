@@ -1,9 +1,20 @@
-<p>
+# GreedySanke
+
 This is a greedysnake writen in C based on Linux.
-</p>
-<p>
+
+## Build
+
+```shell
+sudo apt-get install libncurses5-dev
+make
+```
+
 Just run 'make' and you can get the 'snake'.
-</p>
-<p>
+
+## Run
+
 Input './snake' and enjoy it!
-</p>
+
+```shell
+./snake
+```
