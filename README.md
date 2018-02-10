@@ -1,4 +1,4 @@
-# GreedySanke
+# GreedySnake
 
 This is a greedysnake writen in C based on Linux.
 
