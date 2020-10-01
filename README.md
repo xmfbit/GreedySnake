@@ -1,6 +1,8 @@
-# GreedySnake
+# GreedySnake- best snake gaming experience 
 
 This is a greedysnake writen in C based on Linux.
+
+Go and enjoy it!
 
 ## Build
 
